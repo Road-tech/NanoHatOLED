@@ -26,7 +26,7 @@ Aim to compatible with Python3.x and standard C. No Python2.x, no C++.
 Execute the following command in the operating system:
 
 ```
-# git clone --depth=1 https://github.com/CuitGGyy/NanoHatOLED.git
+# git clone --depth=1 https://github.com/Road-tech/NanoHatOLED.git
 # cd NanoHatOLED
 # sudo -H ./install.sh
 ```
@@ -35,7 +35,7 @@ Execute the following command in the operating system:
 Execute the following command in the operating system:
 
 ```
-# git clone --depth=1 https://github.com/CuitGGyy/NanoHatOLED.git
+# git clone --depth=1 https://github.com/Road-tech/NanoHatOLED.git
 # cd NanoHatOLED
 # sudo -H ./install-compat.sh
 ```
