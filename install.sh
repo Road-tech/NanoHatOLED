@@ -42,12 +42,12 @@ echo "Checking for Updates..."
 echo "======================="
 sudo apt-get update --yes
 
-echo ""
-echo "Installing Dependencies"
-echo "======================="
+# echo ""
+# echo "Installing Dependencies"
+# echo "======================="
 #sudo apt-get install gcc python3 python3-dev -y
-sudo apt-get install gcc python3 -y
-echo "Dependencies installed"
+# sudo apt-get install gcc python3 -y
+# echo "Dependencies installed"
 
 if [ ! -f /usr/bin/python3 ]; then
     echo "/usr/bin/python3 not found, exiting."
